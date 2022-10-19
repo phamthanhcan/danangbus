@@ -2,8 +2,8 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import { Provider } from "react-redux";
 import App from "./app/App";
+import "./style/reset.css";
 import reportWebVitals from "./reportWebVitals";
-import "./stylesheet/style.scss";
 import store from "./app/store";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
