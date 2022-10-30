@@ -137,3 +137,8 @@ html[xmlns] .clearfix {
 .fl_right {
   float: right;
 }
+
+img {
+  width: 100%;
+  height: 100%;
+}
